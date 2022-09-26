@@ -1,0 +1,15 @@
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\bin\Debug\net6.0\Room Calculator JT.exe
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\bin\Debug\net6.0\Room Calculator JT.deps.json
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\bin\Debug\net6.0\Room Calculator JT.runtimeconfig.json
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\bin\Debug\net6.0\Room Calculator JT.dll
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\bin\Debug\net6.0\Room Calculator JT.pdb
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\obj\Debug\net6.0\Room Calculator JT.csproj.AssemblyReference.cache
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\obj\Debug\net6.0\Room Calculator JT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\obj\Debug\net6.0\Room Calculator JT.AssemblyInfoInputs.cache
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\obj\Debug\net6.0\Room Calculator JT.AssemblyInfo.cs
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\obj\Debug\net6.0\Room Calculator JT.csproj.CoreCompileInputs.cache
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\obj\Debug\net6.0\Room Calculator JT.dll
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\obj\Debug\net6.0\refint\Room Calculator JT.dll
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\obj\Debug\net6.0\Room Calculator JT.pdb
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\obj\Debug\net6.0\Room Calculator JT.genruntimeconfig.cache
+C:\Users\javas\source\repos\Room Calculator JT\Room Calculator JT\obj\Debug\net6.0\ref\Room Calculator JT.dll
